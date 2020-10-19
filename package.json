@@ -3,7 +3,7 @@
   "displayName": "vscode-tiff",
   "description": "Display tiff file in VSCode.",
   "version": "0.0.1",
-  "publisher": "yangchigi",
+  "publisher": "ucodkr",
   "engines": {
     "vscode": "^1.46.0"
   },

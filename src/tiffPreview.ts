@@ -110,7 +110,7 @@ export class TiffPreview extends Disposable {
       return webview.asWebviewUri(uri);
     };
 
-    const config = vscode.workspace.getConfiguration('pdf-preview');
+    const config = vscode.workspace.getConfiguration('tiff-preview');
     const settings = {
       isMac: process.platform === 'darwin',
       // src: await this.getResourcePath(this.webviewEditor, this.resource, version),
